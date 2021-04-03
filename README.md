@@ -4,4 +4,4 @@ Latest release builds of Vector Webcam Tether Application (for Windows 10 x64). 
 
 Visit our website at https://www.vectorwebcam.com
 
-
+RELEASES: https://github.com/Vector991/VectorWebcamReleases/releases
