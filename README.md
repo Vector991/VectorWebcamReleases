@@ -1,6 +1,6 @@
 # Vector Webcam Tether Releases
 
-Latest release builds of Vector Webcam Tether application (Windows 10 x64).  For the iOS and Android Apps, install from Apple and Google App Stores.
+Latest release builds of Vector Webcam Tether application (Windows 10/11 x64).  For the iOS app, install from Apple AppStore.
 
 Visit our website at https://www.vectorwebcam.com
 
